@@ -1,0 +1,55 @@
+.contact-us {
+  padding: 0 30px;
+}
+
+.contact-us-link {
+  width: 100%;
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: rgba(255, 255, 255, 1);
+  border-radius: 4px;
+  border: 1px solid rgba(232, 232, 232, 1);
+  margin-top: 16px;
+  padding: 0 16px;
+  transition: box-shadow 0.3s;
+}
+
+.contact-us-link:hover {
+  box-shadow: 0 2px 8px 0 rgba(0, 0, 0, 0.08);
+}
+
+.contact-us-icon {
+  margin: 0;
+  padding: 0;
+}
+
+.contact-us-icon > svg {
+  width: 24px;
+  height: 24px;
+}
+
+.contact-us-label {
+  margin-left: 8px;
+  display: inline-block;
+  width: 120px;
+  font-size: 14px;
+  font-family: PingFangSC-Regular, PingFang SC;
+  font-weight: 400;
+  color: rgba(0, 0, 0, 1);
+}
+
+.contact-us-arrow {
+  width: 10px;
+  height: 10px;
+  margin: 0;
+  padding: 0;
+  margin-left: 120px;
+  color: #565d64;
+  transition: color 0.3s;
+}
+
+.contact-us-arrow:hover {
+  color: #02b875;
+}

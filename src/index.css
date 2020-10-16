@@ -1,0 +1,29 @@
+@import '~antd/dist/antd.css';
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu',
+    'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif; /*如果浏览器不支持第一个字体就会进行回退*/
+  -webkit-font-smoothing: antialiased; /*字体抗锯齿,使用后字体看起来会更清晰舒服*/
+  -moz-osx-font-smoothing: grayscale; /*字体抗锯齿，兼容火狐浏览器使字体变得光滑舒服*/
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+}
+
+textarea:hover,
+input:hover,
+textarea:active,
+input:active,
+textarea:focus,
+input:focus,
+button:focus,
+button:active,
+button:hover,
+label:focus,
+.btn:active {
+  outline: 0px !important;
+  -webkit-appearance: none;
+  box-shadow: none !important;
+}

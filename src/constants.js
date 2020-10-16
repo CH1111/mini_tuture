@@ -1,0 +1,8 @@
+/**
+ * 抽屉类型常亮
+ */
+export const DRAWER_UNSELECT = 'DRAWER_UNSELECT';
+export const PAGE_CATAGUE = 'PAGE_CATAGUE';
+export const COLLECTION_CATALOGUE = 'COLLECTION_CATALOGUE';
+export const COLLECTION_SETTING = 'COLLECTION_SETTING';
+export const CONTACT_US = 'CONTACT_US';

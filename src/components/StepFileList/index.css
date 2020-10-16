@@ -1,0 +1,13 @@
+.step-file-list-title {
+  text-align: center;
+  font-size: large;
+}
+
+.step-file-list-card {
+  background-color: white;
+  padding: 5px;
+  margin: 5px 0;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 1px solid #ddd;
+}

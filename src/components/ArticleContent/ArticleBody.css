@@ -1,0 +1,19 @@
+.article-body-image {
+  text-align: center;
+  margin: 20px 0;
+}
+
+.article-body-image > img {
+  max-width: 100%;
+}
+
+.article-body-code-block {
+  color: white;
+  background-color: black;
+  border-radius: 10px;
+  margin: 10px 0;
+  padding: 10px 16px;
+}
+.article-body-code-block > div {
+  height: 24px;
+}

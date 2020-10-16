@@ -1,0 +1,12 @@
+.article-catalogue {
+  background-color: #fafafa;
+}
+
+.article-catalogue > p {
+  text-align: center;
+  font-size: large;
+}
+
+.article-catalogue-anchor {
+  background-color: #fafafa;
+}

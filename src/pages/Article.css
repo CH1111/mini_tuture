@@ -1,0 +1,36 @@
+.h1,
+.h2,
+.h3,
+.h4,
+.h5 {
+  margin-top: 0.8em !important;
+}
+
+.tuture-content {
+  margin-left: 130px;
+  height: 100vh;
+  background-color: #fff;
+}
+
+.article-content {
+  padding: 72px;
+  line-height: 32px;
+}
+
+.article-content > h1 {
+  font-size: 2rem;
+}
+
+.article-content > p {
+  font-size: 1.1em;
+}
+
+.article-sider-left {
+  background-color: #fafafa;
+  padding: 32px;
+}
+
+.article-sider-right {
+  background-color: #fafafa;
+  padding: 32px;
+}

@@ -1,0 +1,36 @@
+.article-title > textarea {
+  padding: 0;
+  font-size: 36px;
+  font-weight: bold;
+  line-height: 50px;
+  width: 100%;
+  border: none;
+  resize: none;
+}
+.article-cover {
+  text-align: center;
+  margin: 30px 0;
+}
+
+.article-cover > img {
+  width: 100%;
+}
+
+.article-meta > small {
+  margin-right: 1.2em;
+  color: gray;
+}
+
+.article-description {
+  border-left: 6px solid #ddd;
+  padding-left: 1.2em;
+}
+
+.article-description > textarea {
+  color: gray;
+  font-size: 1.1em;
+  line-height: 30px;
+  width: 100%;
+  border: none;
+  resize: none;
+}

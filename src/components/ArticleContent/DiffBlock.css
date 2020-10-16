@@ -1,0 +1,26 @@
+.article-body-diff-block {
+  color: white;
+  background-color: #222;
+  margin: 10px 0;
+  padding: 10px 0;
+  border-radius: 10px;
+}
+
+.article-body-diff-block-title {
+  font-size: large;
+  margin-bottom: 10px;
+  padding-left: 20px;
+}
+.article-body-diff-block-line {
+  height: 25px;
+  padding: 0 20px;
+}
+.article-body-diff-block-line-add {
+  font-weight: bolder;
+  background-color: rgba(0, 176, 80, 0.22);
+}
+.article-body-diff-block-line-del {
+  opacity: 0.3;
+  text-decoration: line-through;
+  background-color: rgba(255, 0, 0, 0.22);
+}
